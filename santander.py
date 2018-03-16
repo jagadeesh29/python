@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb  1 15:51:26 2018
-
-@author: prem
-"""
-
 import pandas as pd
 import numpy as np
 #import train and test data
